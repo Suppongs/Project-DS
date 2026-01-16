@@ -1,0 +1,15 @@
+# Unreal Engine 5
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.vcxproj
+*.vc.db
+*.pdb
+*.obj
+*.pch
+*.ipch
+*.cleantemp
